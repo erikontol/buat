@@ -1,0 +1,24 @@
+{
+  "name": "marlboro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "anticaptcha": "^1.0.6",
+    "async-file": "^2.0.2",
+    "cheerio": "^1.0.0-rc.3",
+    "delay": "^4.3.0",
+    "dotenv": "^8.1.0",
+    "form-data": "^2.5.1",
+    "moment": "^2.24.0",
+    "node-fetch": "^2.6.0",
+    "readline-sync": "^1.4.10",
+    "request": "^2.88.0",
+    "url": "^0.11.0"
+  }
+}
